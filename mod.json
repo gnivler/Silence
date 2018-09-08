@@ -1,0 +1,24 @@
+{
+    "Name": "Silence",
+    "Enabled": true,
+
+    "Version": "1.0",
+    "Author": "gnivler",
+    
+    "DLL": "Silence.dll",
+
+    "Settings": 
+	{
+        /* pilots in the barracks and hiring hall */
+        "EnablePilotBarks": false,
+
+        /* all voiceover confirmations like work orders or training */
+        "EnableBarks": false,
+
+        /* all the public comms chatter */
+        "EnableArgoAmbient" : false,
+
+        /* mechs are constantly making twisting sounds; assaults squeal */
+        "EnableTorsoTwistingSounds": false,
+    }
+}
